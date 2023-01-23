@@ -22,4 +22,4 @@ On Clicking Science - Science NEWS appears
 # Health
 On Clicking Health - Health NEWS appears
 <img width="949" alt="image" src="https://user-images.githubusercontent.com/91959504/202891550-f5184f84-1b51-4e60-8d06-a67893f00a6c.png">
-# Links for Preview :https://jqqivd-3000.preview.csb.app/
+# Links for Preview :https://csb-jwpy67.netlify.app/
